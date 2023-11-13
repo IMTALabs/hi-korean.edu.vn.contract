@@ -1,0 +1,14 @@
+{
+    "times new roman": {
+        "normal": "\/home\/quanph\/Documents\/hikorean.edu.vn\/contract\/vendor\/dompdf\/dompdf\/lib\/fonts\/times new roman",
+        "bold": "\/home\/quanph\/Documents\/hikorean.edu.vn\/contract\/vendor\/dompdf\/dompdf\/lib\/fonts\/times new roman bold italic",
+        "italic": "\/home\/quanph\/Documents\/hikorean.edu.vn\/contract\/vendor\/dompdf\/dompdf\/lib\/fonts\/times new roman bold",
+        "bold_italic": "\/home\/quanph\/Documents\/hikorean.edu.vn\/contract\/vendor\/dompdf\/dompdf\/lib\/fonts\/times new roman bold italic"
+    },
+    "roboto": {
+        "normal": "Roboto-Regular",
+        "bold": "Roboto-Italic",
+        "italic": "Roboto-Bold",
+        "bold_italic": "Roboto-BoldItalic"
+    }
+}

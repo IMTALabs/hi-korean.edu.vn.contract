@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "mikehaertl/phpwkhtmltopdf": "^2.5"
+    }
+}
