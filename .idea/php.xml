@@ -84,6 +84,9 @@
       <path value="$PROJECT_DIR$/phpmailer/vendor/container-interop/container-interop" />
       <path value="$PROJECT_DIR$/phpmailer/vendor/zetacomponents/base" />
       <path value="$PROJECT_DIR$/phpmailer/vendor/zetacomponents/document" />
+      <path value="$PROJECT_DIR$/vendor/mikehaertl/phpwkhtmltopdf" />
+      <path value="$PROJECT_DIR$/vendor/mikehaertl/php-shellcommand" />
+      <path value="$PROJECT_DIR$/vendor/mikehaertl/php-tmpfile" />
     </include_path>
   </component>
   <component name="PhpStanOptionsConfiguration">
@@ -92,6 +95,7 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/phpmailer/vendor/autoload.php" />
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
     </phpunit_settings>
   </component>
   <component name="PsalmOptionsConfiguration">

@@ -994,7 +994,7 @@ $class       = $_REQUEST['lop'];
                                         </div>
                                         <div id="field_75_3"
                                              class="gfield gfield--width-third gf_left_third gfield--width-third gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_3">Họ và tên (*)<span
+                                            <label for="input_75_3">Họ và tên<span
                                                         class="gfield_required">
                                                     <span class="gfield_required gfield_required_asterisk">*</span>
                                                 </span>
@@ -1008,7 +1008,7 @@ $class       = $_REQUEST['lop'];
                                         </div>
                                         <div id="field_75_5"
                                              class="gfield gfield--width-third gf_right_third gfield--width-third gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_5">Số điện thoại (*)<span
+                                            <label for="input_75_5">Số điện thoại <span
                                                         class="gfield_required">
                                                     <span class="gfield_required gfield_required_asterisk">*</span>
                                                 </span>
@@ -1016,13 +1016,13 @@ $class       = $_REQUEST['lop'];
                                             <div class="ginput_container ginput_container_text">
                                                 <input name="input_5" id="input_75_5" type="text" value="<?= $phone ?>"
                                                        class="large"
-                                                       placeholder="Số điện thoại (*)" aria-required="true"
+                                                       placeholder="Số điện thoại " aria-required="true"
                                                        aria-invalid="false">
                                             </div>
                                         </div>
                                         <div id="field_75_4"
                                              class="gfield gfield--width-third gf_middle_third gfield--width-third gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_4">Ngày sinh (*)<span
+                                            <label for="input_75_4">Ngày sinh <span
                                                         class="gfield_required">
                                                     <span class="gfield_required gfield_required_asterisk">*</span>
                                                 </span>
@@ -1030,13 +1030,13 @@ $class       = $_REQUEST['lop'];
                                             <div class="ginput_container ginput_container_text">
                                                 <input name="input_4" id="input_75_4" type="text"
                                                        value="<?= $birthDate ?>" class="large"
-                                                       placeholder="Ngày sinh (*)" aria-required="true"
+                                                       placeholder="Ngày sinh " aria-required="true"
                                                        aria-invalid="false">
                                             </div>
                                         </div>
                                         <div id="field_75_6"
                                              class="gfield gfield--width-third gf_left_third gfield--width-third gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_6">Số CMND / CCCD (*)<span
+                                            <label for="input_75_6">Số CMND / CCCD <span
                                                         class="gfield_required">
                                                     <span class="gfield_required gfield_required_asterisk">*</span>
                                                 </span>
@@ -1044,13 +1044,13 @@ $class       = $_REQUEST['lop'];
                                             <div class="ginput_container ginput_container_text">
                                                 <input name="input_6" id="input_75_6" type="text" value="<?= $cmtnd ?>"
                                                        class="large"
-                                                       placeholder="Số CMND / CCCD (*)" aria-required="true"
+                                                       placeholder="Số CMND / CCCD " aria-required="true"
                                                        aria-invalid="false">
                                             </div>
                                         </div>
                                         <div id="field_75_7"
                                              class="gfield gfield--width-third gf_middle_third gfield--width-third gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_7">Ngày cấp (*)<span
+                                            <label for="input_75_7">Ngày cấp <span
                                                         class="gfield_required">
                                                     <span class="gfield_required gfield_required_asterisk">*</span>
                                                 </span>
@@ -1058,13 +1058,13 @@ $class       = $_REQUEST['lop'];
                                             <div class="ginput_container ginput_container_text">
                                                 <input name="input_7" id="input_75_7" type="text"
                                                        value="<?= $cmtnd_date ?>" class="large"
-                                                       placeholder="Ngày cấp (*)" aria-required="true"
+                                                       placeholder="Ngày cấp " aria-required="true"
                                                        aria-invalid="false">
                                             </div>
                                         </div>
                                         <div id="field_75_13"
                                              class="gfield gfield--width-third gf_right_third gfield--width-third gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_13">Nơi cấp (*)<span
+                                            <label for="input_75_13">Nơi cấp <span
                                                         class="gfield_required">
                                                     <span class="gfield_required gfield_required_asterisk">*</span>
                                                 </span>
@@ -1072,13 +1072,13 @@ $class       = $_REQUEST['lop'];
                                             <div class="ginput_container ginput_container_text">
                                                 <input name="input_13" id="input_75_13" type="text"
                                                        value="<?= $cmtnd_place ?>"
-                                                       class="large" placeholder="Nơi cấp (*)" aria-required="true"
+                                                       class="large" placeholder="Nơi cấp " aria-required="true"
                                                        aria-invalid="false">
                                             </div>
                                         </div>
                                         <div id="field_75_9"
                                              class="gfield gfield--width-third gf_left_third gfield--width-third gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_9">Trường / Nơi công tác <span
+                                            <label for="input_75_9">Trường / Nơi công tác <span
                                                         class="gfield_required">
                                                     <span class="gfield_required gfield_required_asterisk">*</span>
                                                 </span>
@@ -1092,7 +1092,7 @@ $class       = $_REQUEST['lop'];
                                         </div>
                                         <div id="field_75_11"
                                              class="gfield gfield--width-third gf_middle_third gfield--width-third field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_11">Facebook / Zalo</label>
+                                            <label for="input_75_11">Facebook / Zalo</label>
                                             <div class="ginput_container ginput_container_text">
                                                 <input name="input_11" id="input_75_11" type="text"
                                                        value="<?= $facebook ?>"
@@ -1101,7 +1101,10 @@ $class       = $_REQUEST['lop'];
                                         </div>
                                         <div id="field_75_8"
                                              class="gfield gfield--width-third gf_right_third gfield--width-third field_sublabel_below field_description_below hidden_label gfield_visibility_visible">
-                                            <label class="gfield_label" for="input_75_8">Email (*)</label>
+                                            <label for="input_75_8">Email <span
+                                                        class="gfield_required">
+                                                    <span class="gfield_required gfield_required_asterisk">*</span>
+                                                </span></label>
                                             <div class="ginput_container ginput_container_text">
                                                 <input name="input_8" id="input_75_8" type="text" value="<?= $email ?>"
                                                        class="large"
